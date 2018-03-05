@@ -1801,7 +1801,7 @@ angular.module( 'mm.foundation.tooltip', [ 'mm.foundation.position', 'mm.foundat
               }
               if ( scope.tt_popupDelay ) {
                 popupTimeout = $timeout( show, scope.tt_popupDelay, false );
-                popupTimeout.then(function(reposition){reposition();});
+                popupTimeout.then(function(reposition){reposition();}, angular.noop);
               } else {
                 show()();
               }

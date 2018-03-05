@@ -4,7 +4,7 @@
         "Pinecone, LLC",
         "comsolit AG"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": ["./mm-foundation-tpls.js"],
     "dependencies": {
         "angular": ">=1.3.0"
