@@ -1,13 +1,16 @@
 {
-  "name": "angular-foundation",
-  "version": "0.8.0",
+  "name": "comsolit-angular-foundation",
+  "version": "1.0.0",
   "description": "Angular components for Foundation",
   "author": "Pinecone, LLC",
+  "contributors": [{
+    "name": "comsolit AG"
+  }],
   "license": "MIT",
-  "homepage": "http://pineconellc.github.io/angular-foundation/",
+  "homepage": "https://github.com/comsolit/angular-foundation-bower",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pineconellc/angular-foundation.git"
+    "url": "git@github.com:comsolit/angular-foundation-bower.git"
   },
   "keywords": [
     "angular",
